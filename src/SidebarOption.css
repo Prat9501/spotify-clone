@@ -15,3 +15,9 @@
     padding-left: 10px;
     padding-right: 15px;
 }
+
+.sidebarOption > p {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 14px;
+}
