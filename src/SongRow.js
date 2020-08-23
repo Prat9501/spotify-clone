@@ -1,5 +1,5 @@
 import React from "react";
-import "./SongRow.css";
+import "./css_files/SongRow.css";
 
 function SongRow({ track, playSong }) {
   console.log(track);
