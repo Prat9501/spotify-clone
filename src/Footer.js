@@ -22,7 +22,7 @@ function Footer() {
                     alt='' 
                 />
                 <div>
-                    <h3>End of time</h3>
+                    <h3>End of Time</h3>
                     <p>Alan Walker</p>
                 </div>
             </div>
